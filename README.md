@@ -26,4 +26,4 @@ activate kaggle_venv
 
 ## License
 
-This project is licensed under the Unlicensed - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the Unlicensed - see the [LICENSE.md](https://github.com/MoDeep/kaggle-gaggle/blob/master/LICENSE) file for details
